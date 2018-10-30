@@ -1,0 +1,19 @@
+{
+  "name": "front-tpl",
+  "version": "1.0.0",
+  "description": "Template pour démarrer un projet front",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MadCat34/front-tpl.git"
+  },
+  "author": "Romain BASTIDE",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MadCat34/front-tpl/issues"
+  },
+  "homepage": "https://github.com/MadCat34/front-tpl#readme"
+}
